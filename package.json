@@ -7,7 +7,7 @@
   "author": "concon",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://www.evernote.com/Login.action",
+    "serviceURL": "https://app.yinxiang.com/Login.action",
     "hasTeamID": false
   }
 }
